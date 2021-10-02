@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kristina3698
+- 👋 Hi, I’m Kristina
 - 👀 I’m interested in IT, Programming, Design and Business.
 - 🌱 I’m currently learning Python, Artificial Intelligence and Information Security.
 
